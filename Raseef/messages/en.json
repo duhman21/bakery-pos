@@ -1,0 +1,243 @@
+{
+  "seo": {
+    "home": {
+      "title": "Raseef | Flexible On-Demand Warehouse Space",
+      "description": "Raseef is the leading platform for flexible warehouse storage spaces for businesses and enterprises."
+    }
+  },
+  "common": {
+    "brand": {
+      "name": "Raseef",
+      "logoAlt": "Raseef Logo"
+    },
+    "languageToggle": {
+      "ar": "AR",
+      "en": "EN"
+    }
+  },
+  "home": {
+    "header": {
+      "nav": {
+        "howItWorks": "How It Works",
+        "services": "Services",
+        "warehouses": "Warehouses",
+        "testimonials": "Testimonials"
+      },
+      "actions": {
+        "login": "Log In",
+        "requestSpace": "Request Space"
+      }
+    },
+    "hero": {
+      "badge": "Flexible storage on demand",
+      "title": {
+        "line1": "Store your goods",
+        "highlight": "with smarter flexibility"
+      },
+      "description": "A leading platform for flexible warehouse storage spaces for companies and organizations. No long-term contracts. Pay only for the space you need.",
+      "actions": {
+        "findSpace": "Find Space",
+        "listWarehouse": "List Your Warehouse"
+      },
+      "highlights": {
+        "certified": "Certified warehouses",
+        "flexible": "Flexible capacity"
+      },
+      "previewCard": {
+        "title": "Riyadh Logistics Warehouse",
+        "location": "Al Sulay, Riyadh",
+        "status": "Available Now",
+        "imageAlt": "Warehouse",
+        "availableAreaLabel": "Available Area",
+        "availableAreaValue": "2,500 m²",
+        "storageTypeLabel": "Storage Type",
+        "storageTypeValue": "Dry / Chilled",
+        "bookButton": "Reserve Space"
+      },
+      "floating": {
+        "label": "Space booked today",
+        "value": "+12,000 m²"
+      }
+    },
+    "trustMetrics": {
+      "items": [
+        { "value": "+500", "label": "Certified warehouses" },
+        { "value": "15", "label": "Covered cities" },
+        { "value": "2M+", "label": "Square meters available" },
+        { "value": "99%", "label": "Satisfaction rate" }
+      ]
+    },
+    "howItWorks": {
+      "title": "How does Raseef work?",
+      "description": "Four simple steps separate you from finding the ideal storage space for your business.",
+      "steps": [
+        {
+          "title": "Define your need",
+          "description": "Enter required space, storage type, and duration."
+        },
+        {
+          "title": "Choose a warehouse",
+          "description": "Compare available options and select what fits your budget and location."
+        },
+        {
+          "title": "Confirm booking",
+          "description": "Sign electronically and pay quickly and securely."
+        },
+        {
+          "title": "Start storing",
+          "description": "Move your goods in and manage inventory through your dashboard."
+        }
+      ]
+    },
+    "warehouseOptions": {
+      "title": "Storage solutions for every need",
+      "description": "We offer a wide range of storage options designed for different industry requirements.",
+      "items": [
+        {
+          "title": "Dry Storage",
+          "short": "Secure space for general goods.",
+          "details": "Warehouses equipped with top safety and security standards for goods that do not require temperature control."
+        },
+        {
+          "title": "Chilled & Frozen Storage",
+          "short": "Precise temperature control.",
+          "details": "Advanced chilled and frozen rooms that protect food and pharmaceuticals under strict regulations."
+        },
+        {
+          "title": "Air-Conditioned Storage",
+          "short": "Stable controlled environment.",
+          "details": "Climate-controlled spaces suited for electronics, cosmetics, and heat-sensitive materials."
+        },
+        {
+          "title": "Pallet Storage",
+          "short": "Flexible option for smaller volumes.",
+          "details": "Rent by pallet and pay only for the actual footprint your goods occupy."
+        },
+        {
+          "title": "Order Handling & Fulfillment",
+          "short": "Integrated logistics services.",
+          "details": "Receiving, sorting, packing, and preparing orders for direct end-customer delivery."
+        },
+        {
+          "title": "Flexible Contracts",
+          "short": "Daily, monthly, or yearly terms.",
+          "details": "Eliminate long-contract constraints with space that adapts to seasonal peaks and demand shifts."
+        }
+      ]
+    },
+    "whyChooseUs": {
+      "title": "Why choose",
+      "brand": "Raseef",
+      "titleSuffix": "for your logistics operations?",
+      "description": "We do more than provide storage space. We deliver a reliable logistics partner to support growth and lower operating costs.",
+      "reasons": [
+        "Flexible contracts with no long-term commitments",
+        "Multiple options across 15+ cities",
+        "Fast onboarding and storage activation within 24 hours",
+        "Transparent pricing with no hidden fees",
+        "Suitable for small, medium, and large businesses",
+        "Smart dashboard for inventory management"
+      ],
+      "comparison": {
+        "savingsLabel": "Estimated savings",
+        "savingsValue": "30%",
+        "setupLabel": "Setup time",
+        "setupValue": "24 hours",
+        "raseefCostLabel": "Cost with Raseef",
+        "raseefCostValue": "Flexible",
+        "traditionalCostLabel": "Traditional cost",
+        "traditionalCostValue": "Fixed and high"
+      }
+    },
+    "featuredWarehouses": {
+      "title": "Ready-to-store spaces",
+      "description": "Explore selected premium warehouses currently available on our platform.",
+      "viewAll": "View all warehouses",
+      "status": {
+        "available": "Available Now",
+        "unavailable": "Fully Booked"
+      },
+      "labels": {
+        "type": "Type",
+        "area": "Area"
+      },
+      "action": {
+        "requestQuote": "Request Quote",
+        "unavailable": "Currently Unavailable"
+      },
+      "items": [
+        {
+          "name": "Riyadh Central Warehouse",
+          "location": "Al Sulay, Riyadh",
+          "type": "Dry & Chilled",
+          "area": "5,000 m²",
+          "tags": ["24/7 monitoring", "Forklifts", "Truck parking"]
+        },
+        {
+          "name": "Jeddah Logistics Warehouse",
+          "location": "Al Khomrah, Jeddah",
+          "type": "Dry",
+          "area": "10,000 m²",
+          "tags": ["Near port", "Inventory management", "Full insurance"]
+        },
+        {
+          "name": "Dammam Industrial Warehouse",
+          "location": "Industrial City, Dammam",
+          "type": "Air-conditioned",
+          "area": "3,500 m²",
+          "tags": ["Thermal insulation", "Modern shelving", "Fire suppression"]
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Trusted by growing businesses",
+      "description": "We are proud of our clients' trust and continuously deliver better storage solutions to support their growth.",
+      "items": [
+        {
+          "name": "Ahmed Abdullah",
+          "role": "Operations Manager, Logistics Plus",
+          "content": "Raseef transformed the way we manage inventory. We no longer need costly annual contracts and can rent space based on seasonal demand."
+        },
+        {
+          "name": "Sara Khalid",
+          "role": "Founder, E-commerce Store",
+          "content": "My experience with Raseef has been excellent. Finding chilled storage and finalizing contracts quickly helped us expand to new cities."
+        },
+        {
+          "name": "Mohammed Al Omar",
+          "role": "Procurement Manager, Food Manufacturer",
+          "content": "Transparent pricing and diverse certified warehouse options made Raseef our primary logistics partner."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": {
+        "line1": "Ready to upgrade your",
+        "highlight": "logistics operations?"
+      },
+      "description": "Join hundreds of companies relying on Raseef to manage warehouse space with flexibility and efficiency. Start now and stop fixed costs from limiting your growth.",
+      "actions": {
+        "findNow": "Find Space Now",
+        "contactSales": "Contact Sales"
+      }
+    },
+    "footer": {
+      "description": "The leading platform for flexible warehouse storage in Saudi Arabia. We connect warehouse owners with businesses looking for storage space.",
+      "groups": [
+        {
+          "title": "Services",
+          "links": ["Dry storage", "Chilled & frozen storage", "Air-conditioned storage", "Order fulfillment"]
+        },
+        {
+          "title": "Company",
+          "links": ["About us", "How it works", "FAQ", "Contact us"]
+        },
+        {
+          "title": "Legal",
+          "links": ["Terms and conditions", "Privacy policy", "Refund policy"]
+        }
+      ],
+      "copyright": "Raseef Platform. All rights reserved."
+    }
+  }
+}

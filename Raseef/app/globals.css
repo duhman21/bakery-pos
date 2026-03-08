@@ -1,0 +1,45 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme {
+  --font-sans: var(--font-brand), sans-serif;
+  --color-primary: #F0A500;
+  --color-offwhite: #F9F8EC;
+  --color-navy: #131721;
+  --color-deepnavy: #1C2130;
+  --color-white: #FFFFFF;
+
+  /* Centralized Border Radius */
+  --radius-base: 1.5rem; /* For cards and large containers */
+  --radius-button: 0.70rem; /* For buttons and small elements */
+  --radius-pill: 9999px; /* For badges and fully rounded elements */
+}
+
+:root {
+  /* Centralized Border Thickness */
+  --border-width-base: 2px; /* Main border thickness */
+  --border-width-sm: 1px; /* For smaller elements */
+  --border-width-lg: 3px; /* For large emphasis elements */
+}
+
+@layer base {
+  body {
+    background-color: var(--color-offwhite);
+    color: var(--color-navy);
+  }
+}
+
+@layer utilities {
+  .perspective {
+    perspective: 1000px;
+  }
+  .transform-style-3d {
+    transform-style: preserve-3d;
+  }
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+}
